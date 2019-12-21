@@ -1,4 +1,4 @@
-# An-implementation-of-Language-Model-with-LSTM-Att
+# An-implementation-of-Language-Model-with-LSTM-Attention
 Windows | Pytorch
 ## The workflow of code as follows
 Batch the datasets --  Embedding the tokens with nn.embedding from **Pytorch** -- LSTM~--~Attention with attention_width on the hidden in the dimension of batch_size -- Fc linear layers with softmax finally  
